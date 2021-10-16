@@ -1,0 +1,152 @@
+.logo-pic{
+    width: 150px;
+    .grid{
+        display: flex;
+        justify-items:end;
+        align-items:end;
+    }
+}
+.sign-in-button{
+    height: 43px;
+    width: 104px;
+    left: 1201px;
+    top: 25px;
+    border-radius: 33px;
+    padding: 12px, 28px, 12px, 28px;
+    background-color: #21B573;
+    border:none;
+    }
+    .nav-flex{
+        display: flex;
+        justify-content: flex-end;
+    }
+    .illustration-pic{
+        width: 100%;
+    }
+    .top-word{
+        font-weight: 400;
+        color:#FD511A;
+        
+    }
+    .middle-word{
+        font-weight:bolder;
+        size: 48;
+        
+    }
+    .last-word{
+        color: grey;
+    }
+    .get-start-button{
+width: 81px;
+height: 43px;
+left: 36px;
+top: 12px;
+background-color: #21B573;;
+    }
+    .bg{
+        background-color: lightgoldenrodyellow;
+    }
+.image{
+    width: 80px;
+    height: 90px;
+    padding-top: 20px;
+}
+.cat1{
+    background-color: #F8FFFB;
+    height: 250px;
+    flex-direction: column;
+    
+
+}
+.cat2{
+    background-color: #FFFFFF;
+    height: 250px;
+    flex-direction: column;
+    box-shadow: 5px 5px 10px lightslategray;
+    
+}
+.cat3{
+    background-color: #F8FFFB;
+    height: 250px;
+    flex-direction: column
+}
+.cat4{
+    background-color: #F8FFFB;
+    height: 250px;
+    flex-direction: column
+}
+.categories{
+    height: 300px;
+    padding: 0;
+   margin-top: 100px;
+}
+.cat1 ,.cat2 ,.cat3{
+    padding: 20px 40px;
+}
+.middle{
+    text-align: center;
+    margin-top: 50px;
+}
+.card-group{
+    margin-top: 50px;
+}
+.course-button{
+    background-color: #21B573;
+    height: 43px;
+    width: 150px;
+    border-radius: 50px;
+    border: none;
+    color: white;
+
+}
+.calender-pic{
+    width: 25px;
+    height: 25px;
+    
+}re
+.card-footer{
+    border-top: none;
+}
+.man-pic{
+    width: 150px;
+    margin-left: 300px;
+}
+.man-text{
+    margin-right: 60px;
+}
+.man-body{
+    margin-top: 80px;
+}
+.footer{
+    margin-top: 80px;
+    height: 380px;
+    background-color: #282531;
+}
+.f1{
+    color: whitesmoke;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+.f2{
+    color: whitesmoke;
+    padding-top: 60px;
+    padding-left: 20px;
+}
+.f3{
+    color: whitesmoke;
+    padding-top: 60px;
+    padding-left: 20px;
+}
+.f4{
+    color: whitesmoke;
+    padding-top: 60px;
+    padding-left: 20px;
+}
+
+.column1{
+    text-align: center;
+}
+.footer {
+    text-align: center;
+    color: gray;
+}
